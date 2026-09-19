@@ -11,3 +11,4 @@ Ingerediants :
         - light Oil added
         - Karam added on top Dosa
         - fully roasted
+        - chutney also added
