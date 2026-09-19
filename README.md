@@ -12,3 +12,6 @@ Ingerediants :
         - Karam added on top Dosa
         - fully roasted
         - chutney also added
+## third Item: Egg-Dosa (Added by Suresh)
+        - Dosa batter added
+        - 2eggs added
