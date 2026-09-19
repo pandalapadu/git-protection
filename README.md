@@ -18,4 +18,8 @@ Ingerediants :
 
 ## Masala Dosa
         - Oil added
-        
+        - Masla Added
+        - Butter
+        - Tomoto Paste
+        - ghee
+        - carret and beetroot
