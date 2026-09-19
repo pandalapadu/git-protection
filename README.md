@@ -10,3 +10,4 @@ Ingerediants :
         - Dosa batter added
         - light Oil added
         - Karam added on top Dosa
+        - fully roasted
